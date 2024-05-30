@@ -1,5 +1,0 @@
-# Output
-
-
-![image](Brewery.png)
-
